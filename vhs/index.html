@@ -12,7 +12,7 @@ layout: default
     <div class="book-info">
       <h2>{{ book.title }}</h2>
       <p>{{ book.author }}</p>
-      <p>{{ book.date }}</p>
+      <p>{% if book.who %}{% if book.who == "both" %}⚥{% elsif book.who == "him" %}♂️{%elsif book.who == "her" %}♀️{% endif %} | {% endif %}{{ book.date }}</p>
     </div>
   </article>
   {% endfor %}
