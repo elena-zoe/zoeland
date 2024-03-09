@@ -1,3 +1,15 @@
+- title: Barbie
+  author: Greta Gerwig
+  image: barbie.jpg
+  date: Marzo 2024
+  who: both
+  link: https://www.filmaffinity.com/es/film506593.html
+- title: Tuset Street 
+  author: Luis Marquina
+  image: tusetstreet.jpg
+  date: Marzo 2024
+  who: her
+  link: https://www.filmaffinity.com/es/film291833.html
 - title: El fascista, la beata y su hija desvirgada
   author: Joaquín Coll Espona
   image: fascistabeatahijadesvirgada.jpg
@@ -166,6 +178,18 @@
   author: Alan Taylor
   image: terminatorgenesis.jpg
   link: https://www.filmaffinity.com/es/film188260.html
+- title: Indiana Jones y el dial del destino
+  author: James Mangold
+  image: indianajonesyeldialdeldestino.jpg
+  date: Julio 2023
+  who: both
+  link: https://www.filmaffinity.com/es/film506593.html
+- title: "Dungeons & Dragons: Honor entre ladrones"
+  author: John Francis Daley
+  image: honorentreladrones.jpg
+  date: Abril 2023
+  who: both
+  link: https://www.filmaffinity.com/es/film363637.html
 - title: Stranger Things (T4)
   author: Matt Duffer, Ross Duffer
   image: strangerthings.jpg
